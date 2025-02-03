@@ -1,5 +1,24 @@
 # 💫 About Me:
-# 👋 Hello, je suis Blaise!<br><br>💻 Passionné par les infrastructures IT, les réseaux et le cloud, je me spécialise en administration système et réseau.  <br><br>🎯 Actuellement, je travaille sur des labs Windows Server et des environnements Active Directory.  <br><br>🚀 Mon objectif : Obtenir des certifications et intégrer un poste en IT.  <br><br><br>## 🛠️ Compétences & Technologies<br><br>![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft)<br>![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco)<br>![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br><br><br>## 🚀 Projets en cours<br><br>- 🔹 [Windows Server Lab](https://github.com/NGAMS237/WindowsServer-Lab)  <br>- 🔹 Expérimentation avec **VirtualBox, IPFire, Active Directory**  <br>- 🔹 Documentation et partage de labs IT  <br><br><br>## 📜 Certifications & Objectifs<br><br>🔄 **En cours : Windows Server, Ubuntu Server, Python**  <br>✅ **Cisco CCNA 200-301  (en préparation)**  <br>✅ **Microsoft Azure (AZ-104 en préparation)**  <br>✅ **AWS Cloud Certification  ( en préparation)**  <br><br><br>
+# 👋 Salut, moi c'est Blaise (NGAMS237)  
+
+💻 **Administrateur Système & Réseau en formation** | Windows Server, Réseaux & Cloud  
+🚀 J'expérimente avec VirtualBox, Active Directory, et l'administration de serveurs  
+📚 Actuellement en train de monter mon propre lab IT et documenter mes projets  
+
+## 🔧 Technologies & Compétences  
+- 🌐 Réseaux : CCNA, IPFire, Active Directory  
+- 🖥️ Systèmes : Windows Server 2022/2025, Linux (Ubuntu)  
+- ☁️ Cloud : Azure, AWS (bientôt)  
+- ⚙️ Virtualisation : VirtualBox, Machines Virtuelles  
+
+## 📌 Projets en cours  
+🔹 **Lab IT sur VirtualBox** → Windows Server, contrôleur de domaine, PC clients & routeur IPFire  
+🔹 **Documentation des labs sur GitHub**  
+
+📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/ton-lien) | [GitHub](https://github.com/NGAMS237)  
+
+---
+⭐️ N'hésite pas à suivre mes projets et échanger avec moi !
 
 
 ## 🌐 Socials:
