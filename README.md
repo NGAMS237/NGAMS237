@@ -9,7 +9,7 @@
 - 🌐 Réseaux : CCNA, IPFire, Active Directory  
 - 🖥️ Systèmes : Windows Server 2022/2025, Linux (Ubuntu)  
 - ☁️ Cloud : Azure, AWS (bientôt)  
-- ⚙️ Virtualisation : VirtualBox, Machines Virtuelles  
+- ⚙️ Virtualisation : VirtualBox, Machines Virtuelles   
 
 ## 📌 Projets en cours  
 🔹 **Lab IT sur VirtualBox** → Windows Server, contrôleur de domaine, PC clients & routeur IPFire  
